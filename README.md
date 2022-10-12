@@ -1,13 +1,11 @@
 # Paper
 a litiral sheet of paper
 
-alright this model will have 3 different versions
+alright this model will have 2 different versions
 
 1. a piece of paper
 
-2. a stack of paper
-
-3. a clipboard (might make this IDK)
+2. a clipboard
 
  <html>
 <img
