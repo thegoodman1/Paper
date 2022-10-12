@@ -11,7 +11,7 @@ alright this model will have 3 different versions
 
  <html>
 <img
-  src="Screenshot 2022-10-11 171259.png"
+  src="Screenshot 2022-10-12 192316.png"
   alt="paper"
   title="paper"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
